@@ -20,7 +20,7 @@ Yogya is a full-stack yoga session management application that allows users to b
 Clone the repository and install dependencies for both client and server:
 
 ```bash
-git clone https://github.com/yourusername/yogya.git
+git clone https://github.com/spn-sujit/yogya.git
 cd yogya
 
 # Install and run client
